@@ -1,4 +1,4 @@
-# RealSense 적외선 영상 기반 컵 탐지: YOLOv8n 학습과 오탐 분석
+# RealSense 인식 그리퍼 모델 적용 및 결과 분석
 
 **과목:** AI+X: 딥러닝 (2620HY15046)  
 **작성자:** 총언흥 (Cong Yanxing)  
