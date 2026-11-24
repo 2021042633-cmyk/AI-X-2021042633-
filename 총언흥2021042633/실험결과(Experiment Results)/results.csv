@@ -1,0 +1,6 @@
+﻿실험,학습 횟수(epoch),검증 이미지,Precision,Recall,mAP50,mAP50-95,기록 기준
+objects,1,3,,,0.142,0.0496,best.pt 최종 검증
+objects2,30,3,,,0.995,0.548,best.pt 최종 검증
+objects2_epoch30_log,30,3,0.95830,1.00000,,0.53487,30 epoch 로그; 최종 best.pt와 별도 기록
+objects3,30,3,,,0.995,0.454,best.pt 최종 검증
+objects4,30,3,1.000,0.659,0.995,0.609,best.pt 최종 검증; 손 배경 예시 추가

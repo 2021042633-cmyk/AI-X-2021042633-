@@ -1,0 +1,7 @@
+# 실행 전 path를 실제 데이터셋 폴더로 바꾸세요.
+path: /경로/를/실제/데이터셋으로/수정
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: cup
