@@ -1,4 +1,4 @@
-# RealSense 적외선 영상 기반 컵 객체 탐지
+# RealSense인식 그리퍼
 
 AI+X 딥러닝 프로젝트 진행 자료입니다. Intel RealSense D435i의 적외선 영상으로 컵을 촬영하고, YOLOv8n을 학습해 탐지 결과와 오류 사례를 살펴봤습니다.
 
